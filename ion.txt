@@ -1,0 +1,2 @@
+if (keydown(KEY_ONE)):
+    do_something()
