@@ -20,4 +20,4 @@
 # cos(wT+p)         # (1/w)*sin(wT+p)
 # 1/sqrt(x)         # 2*sqrt(x)
 # e^x               # e^x
-# 1/x               # ln(x)  
+# 1/x               # ln(x) 
